@@ -66,3 +66,11 @@ let lastName = "Mondol";
 let fullName = firstName + lastName;
 let age =21;
 console.log("This is my full name ", fullName + " I'm ", + age)
+
+// hello world print using function
+
+
+function e(){
+    return "Noman Loves monika";
+}
+console.log(e())
